@@ -1,2 +1,2 @@
 # githubdemo
-this is a repo to demonstrste the usage of github....!!
+This is a repo to demonstrste the usage of github....!
